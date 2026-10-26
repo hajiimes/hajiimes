@@ -1,1 +1,1 @@
-<a href="https://pin.it/66b5FnK4T"><img src="https://i.pinimg.com/1200x/6e/41/51/6e41513503c098c555fe55ec3b1ce235.jpg" width="1000" alt="main graphic that is colorful and has a drawing of roxy lalonde"></a>
+<a href="https://x.com/BS_101495"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/komahina%20bannerthing.png" width="800" height="450" alt="art of hajime hinata and nagito komaeda"></a>
