@@ -33,6 +33,7 @@ txt txt txt txt txt txt txt
 </td>
 <td width="250" align="center" valign="middle">
 <a href="https://br.pinterest.com/pin/436004807698817286/"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/hinakomanamii.png" width="800" ></a>
+  <a href="https://hajimes.atabook.org">新book</a>﹔<a href="https://github.com/meowgariita">alt github</a>
 </td>
 </tr>
 </table>
