@@ -34,8 +34,9 @@ txt txt txt txt txt txt txt
 <td width="250" align="center" valign="middle">
 <a href="https://br.pinterest.com/pin/436004807698817286/"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/hinakomanamii.png" width="800" ></a>
 <!-- link medias -->
- 
-  <a href="https://hajimes.atabook.org" style="color: #D5CCBB;">新book</a>
+<a href="https://hajimes.atabook.org"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/misc%20Ok%3F/atabookthing.png" width="55" ></a>
+$\color{#D5CCBB}{\textsf{𓏼⠀}}$
+<a href="https://github.com/meowgariita"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/misc%20Ok%3F/maingit.png" width="60" ></a>
 </td>
 </tr>
 </table>
