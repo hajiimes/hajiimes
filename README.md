@@ -25,10 +25,11 @@
 <td width="200" align="center">
 <p align="center">
   <img src="https://64.media.tumblr.com/148415ac1a3c1b94f0695f3967974300/d5679393135bb36e-07/s250x400/d077c825d8fee8c8aef8a181e59708d52aff0426.pnj" width="500" alt="small image">
-txt txt txt txt txt txt txt<br>
-txt txt txt txt txt txt txt<br>
-txt txt txt txt txt txt txt<br>
-txt txt txt txt txt txt txt
+<!-- text under image -->
+ $\color{#D5CCBB}{\textsf{‹ ︎   ✦ 𓏻  byi ۫ ׅ  }}$ <br>
+ $\color{#B4BCB0}{\textsf{ 𓏻𓏻  basic dni criteria}}$ <br>
+ $\color{#9AAA9F}{\textsf{  𓏻 feel free to c+h }}$ <br>
+ $\color{#93A078}{\textsf{  ｡ afk mostly, so pls w2i!}}$ <br>
 </p>
 </td>
 <td width="250" align="center" valign="middle">
