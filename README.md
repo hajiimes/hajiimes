@@ -9,7 +9,7 @@
   <table>
     <tr>
       <td align="center" >
-        txt txt txt txt txt txt txt txt txt txt txt txt txt txt <br>
+         $\color{#FF7AA5}{\textsf{social}}$ <br>
         txt txt txt txt txt txt txt txt txt txt txt txt txt txt <br>
         txt txt txt txt txt txt txt txt txt txt txt txt txt txt <br>
       </td>
