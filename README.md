@@ -33,7 +33,9 @@ txt txt txt txt txt txt txt
 </td>
 <td width="250" align="center" valign="middle">
 <a href="https://br.pinterest.com/pin/436004807698817286/"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/hinakomanamii.png" width="800" ></a>
-   $\color{#D5CCBB}{\textsf{<a href="https://hajimes.atabook.org">新book</a>}}$ $\color{#B4BCB0}{\textsf{﹔}}$ $\color{#9AAA9F}{\textsf{<a href="https://github.com/meowgariita">alt github</a>}}$ 
+<!-- link medias -->
+ 
+  <a href="https://hajimes.atabook.org" style="color: #D5CCBB;">新book</a>
 </td>
 </tr>
 </table>
