@@ -26,8 +26,8 @@ txt txt txt txt txt txt txt<br>
 txt txt txt txt txt txt txt
 </p>
 </td>
-<td width="200" align="center" valign="middle">
-<img src="https://file.garden/ZRfaX7xMiQQHiMQP/rfvdfs.png" width="800" >
+<td width="250" align="center" valign="middle">
+<a href="https://br.pinterest.com/pin/436004807698817286/"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/hinakomanamii.png" width="800" ></a>
 </td>
 </tr>
 </table>
