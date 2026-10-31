@@ -14,7 +14,7 @@
     </tr>
   </table>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=14&duration=9000&pause=400&color=465936&center=true&repeat=false&width=1000&height=30&lines=i+believe+that+good+things...+only+come+to+those+who+wait" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=14&duration=10000&pause=400&color=465936&center=true&repeat=false&width=1000&height=30&lines=i+believe+that+good+things...+only+come+to+those+who+wait" alt="Typing SVG" /></a>
 <div align="center">
 <table>
 <tr>
