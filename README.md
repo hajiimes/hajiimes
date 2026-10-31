@@ -1,8 +1,9 @@
 <p align="center">
 <a href="https://www.tumblr.com/asteraws"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/hinakomabannerthing.png" width="500" alt="art of hajime hinata and nagito komaeda"></a>
 </p>
-<!-- table medias -->
+<!-- typing text thing 1 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=14&duration=6001&pause=400&color=465936&center=true&repeat=false&width=1000&height=30&lines=do+you+believe+in+love+in+first+sight%3F...++do+you+believe+in+fate%3F" alt="Typing SVG" /></a>
+<!-- table medias -->
 <div align="center" >
   <table>
     <tr>
@@ -14,7 +15,7 @@
     </tr>
   </table>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=14&duration=10000&pause=400&color=465936&center=true&repeat=false&width=1000&height=30&lines=i+believe+that+good+things...+only+come+to+those+who+wait" alt="Typing SVG" /></a>
+
 <div align="center">
 <table>
 <tr>
@@ -32,3 +33,5 @@ txt txt txt txt txt txt txt
 </tr>
 </table>
 </div>
+<!-- typing text thing 2 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=14&duration=10000&pause=400&color=465936&center=true&repeat=false&width=1000&height=30&lines=i+believe+that+good+things...+only+come+to+those+who+wait" alt="Typing SVG" /></a>
