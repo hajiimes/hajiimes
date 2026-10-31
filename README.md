@@ -9,9 +9,11 @@
   <table>
     <tr>
       <td align="center" >
-         $\color{#FF7AA5}{\textsf{social}}$ <br>
-        txt txt txt txt txt txt txt txt txt txt txt txt txt txt <br>
-        txt txt txt txt txt txt txt txt txt txt txt txt txt txt <br>
+         $\color{#D5CCBB}{\textsf{⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂☆}}$ <br>
+           $\color{#D5CCBB}{\textsf{✧˖  ꕀ    hajime  roxy}}$ <br>
+           $\color{#B4BCB0}{\textsf{he ﹔she   𝄞݂۫ ‿ 𓈒 𓈒 𓈒 }}$ <br>
+           $\color{#9AAA9F}{\textsf{  ࣪   ۫𓂅  18 yo     ۪ -16 dnf ⟢}}$ <br>
+         $\color{#93A078}{\textsf{☆⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂}}$ <br>
       </td>
     </tr>
   </table>
